@@ -1,0 +1,35 @@
+body{
+background-image: url("naphtal.jpg");
+border-radius:60px;
+
+
+}
+input{
+  background-color:grey;
+  width: 100%
+  margin-left:200px;
+  align-content: center;
+  justify-content: center;
+  border-radius:60px;
+
+}
+form{
+ background: linear-gradient(black,red,yellow,blue,pink,purple,indigo);
+ /* animation: animate 1s infinite;*/
+ 
+
+
+  margin-left: 400px;
+  width: 400px;
+  padding:30;
+  margin-top: 100px;
+  border-radius: 60px;
+  border:3padding solid 20px;
+}
+h1{
+  align-content: center;
+  justify-content: center;
+  margin-left: 420px;
+  margin-top: 90px;
+  margin-center:90px;
+}
